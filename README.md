@@ -74,6 +74,6 @@ There is sample files of our preprocessing in `data/sample/`.
 
 ## LICENSE
 
-This software is released under the NTT License, see `LICESCE.txt`.
+This software is released under the NTT License, see `LICENSE.txt`.
 
 According to the license, it is not allowed to create pull requests. Please feel free to send issues.
